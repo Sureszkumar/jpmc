@@ -2,9 +2,10 @@
 JPMC excercise for interview
 Problem 1 : Daily trading reporting engine.
 
-Main application class : src\main\java\com\jpmc\trading\report\Application.java
-
-Executable jar "\executable-jar\trading-report-1.0-SNAPSHOT.jar" is generated to test application with the input file "\executable-jar\valid-instruction-file"
+Main application class : /src/main/java/com/jpmc/trading/report/Application.java
+Test class : /src/test/java/com/jpmc/trading/report/ReportServiceTest.java
+Test file : 
+Executable jar "/executable-jar/trading-report-1.0-SNAPSHOT.jar" is generated to test application with the input file "\executable-jar\valid-instruction-file"
 
 Below command line input will execute the application and print the report as expected
 
